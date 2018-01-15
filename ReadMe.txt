@@ -14,3 +14,5 @@ git push -u origin master
 $ git add crsReadme.txt       OR   git add *
 $ git commit -m "Update crsReadMe.txt for git add *"
 $ git push -u origin master
+
+Testing with Atom to push to github
